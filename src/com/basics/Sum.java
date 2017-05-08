@@ -1,6 +1,6 @@
 package com.basics;
 
-//abstract class
+//abstract class 
 abstract class Sum{
  //abstract methods
  public abstract int SumOfTwo(int n1, int n2);
